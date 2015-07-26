@@ -1,0 +1,15 @@
+Compiler sous gcc avec par exemple : gcc -Wall -o PokemonArena PokemonArena.c
+
+Lancer PokemonArena : ./PokemonArena
+
+Ouvrir le terminal en mode plein écran pour un affichage optimal.
+
+Choisir la difficulté facile en entrant 1 puis entrée
+
+Choisir son pokemon en entrant 2 par exemple
+
+Faire les combats en choisissant les attaques voulues avec 1, 2, 3 ou 4.
+
+La victoire devrait être facile en entrant tout le temps 1 par exemple.
+
+Pour perdre au premier combat, prendre le pokemon feu (numéro 3) et n'entrer que 4 comme attaque.
